@@ -38,6 +38,5 @@ public class CobaLagiMain {
         while(executors.isTerminated()){
     }
     
-        System.out.println("semua task selesai");
 }
 }
